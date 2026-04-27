@@ -24,7 +24,7 @@ MS Computer Science @ UC Santa Cruz | AIEA Lab | Graduating June 2026
 ## Featured Projects
 - **[Hallucination Evaluation Pipeline](https://github.com/AamenaAfreen)** — Risk-sensitive LLM evaluation across 6 benchmarks, reduced hallucination ~3x
 - **[Codenames GPT](https://github.com/AamenaAfreen/codemaster)** — LLM multi-agent framework, 97% win rate outperforming published best of 94%
-- **[Branch Prediction with Perceptrons](https://github.com/AamenaAfreen/scarab)** — 51% misprediction reduction vs Gshare baseline
+
 
 ---
 
