@@ -1,6 +1,6 @@
 # Hi, I'm Aamena Afreen 👋
 
-I build and evaluate AI systems — currently researching how to make LLMs 
+I am currently researching how to make LLMs 
 more honest and less confidently wrong.
 
 MS Computer Science @ UC Santa Cruz | AIEA Lab | Graduating June 2026
@@ -8,7 +8,7 @@ MS Computer Science @ UC Santa Cruz | AIEA Lab | Graduating June 2026
 ---
 
 ## What I Work On
-- Building LLM systems that actually work — multi-agent frameworks, evaluation pipelines, interactive dashboards
+- Building LLM systems that actually work, multi-agent frameworks, evaluation pipelines, interactive dashboards
 - My projects ship with numbers: 97% win rate, 3x hallucination reduction, 51% misprediction improvement
 - Background in enterprise software (Capgemini) + academic research (UCSC)
 
