@@ -1,6 +1,6 @@
 # Hi, I'm Aamena Afreen 👋
 
-I am currently researching how to make LLMs 
+I am currently researching on how to make LLMs 
 more honest and less confidently wrong.
 
 MS Computer Science @ UC Santa Cruz | AIEA Lab | Graduating June 2026
