@@ -7,7 +7,7 @@ MS, Computer Science and Engineering @ UC Santa Cruz ('26) | AIEA Lab | ex-Capge
 ---
 
 ## What I Work On
-- LLM evaluation, hallucination reduction, and calibrated abstention — prompt-level methods, no fine-tuning
+- LLM evaluation, hallucination reduction, and calibrated abstention - prompt-level methods, no fine-tuning
 - Multi-agent LLM systems and their failure modes
 - My projects ship with numbers: a 91% → 16% wrong-answer rate drop from prompt design alone, a 96% win rate beating a published baseline on a ~50x cheaper model, and a 22% → 73% win-rate jump from removing a single self-critique step
 
